@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/L03_Selektion_If/..iml" filepath="$PROJECT_DIR$/L03_Selektion_If/..iml" />
+      <module fileurl="file://$PROJECT_DIR$/L00 IntelliJ/L00 IntelliJ.iml" filepath="$PROJECT_DIR$/L00 IntelliJ/L00 IntelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L01_SimpleProgrammer/L01_SimpleProgrammer.iml" filepath="$PROJECT_DIR$/L01_SimpleProgrammer/L01_SimpleProgrammer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02_VariablerOgScanner/L02_VariablerOgScanner.iml" filepath="$PROJECT_DIR$/L02_VariablerOgScanner/L02_VariablerOgScanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04_Lokker/L04_Lokker.iml" filepath="$PROJECT_DIR$/L04_Lokker/L04_Lokker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_Arrays/L05_Arrays.iml" filepath="$PROJECT_DIR$/L05_Arrays/L05_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programmering1.iml" filepath="$PROJECT_DIR$/Programmering1.iml" />
+    </modules>
+  </component>
+</project>

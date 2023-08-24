@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="playdice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Miniprojekt terningspil/playdice.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

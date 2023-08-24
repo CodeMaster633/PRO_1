@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="PRO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/kodeLektion04.zip!/" />
+      <root url="jar://$PROJECT_DIR$/loops.zip!/" />
+      <root url="jar://$PROJECT_DIR$/eksemplerIF.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
